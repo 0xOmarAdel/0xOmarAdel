@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Omar</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">Front-End Web Developer | React.js Specialist</h2>
 
 # 💻 Tech Stack:
 
