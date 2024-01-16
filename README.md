@@ -1,10 +1,41 @@
-<h1 align="center">Hi, I'm Omar</h1>
-<h2 align="center">Front-End Web Developer | React.js Specialist</h2>
+<h2>Omar  Adel </h2>
 
-# 💻 Tech Stack:
+### 👨🏻‍💻 &nbsp;About Me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+🎓 &nbsp;A computer science student who graduated in 2023.
 
-# 📊 GitHub Stats:
+💡 &nbsp;Passionate about exploring new technologies and crafting compelling websites.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xOmarAdel&theme=tokyonight&hide_border=true)<br/>
+🚀 &nbsp; Eager to embark on new challenges and contribute to exciting projects.
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=reactrouter)&nbsp;
+![Redux](https://img.shields.io/badge/Redux_Toolkit-05122A?style=flat&logo=Redux)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05122A?logo=tailwindcss)&nbsp;
+![Daisy UI](https://img.shields.io/badge/Daisy_UI-05122A?logo=daisyui)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?logo=bootstrap)&nbsp;
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-05122A?logo=chakraui)&nbsp;
+![Framer](https://img.shields.io/badge/Framer_Motion-05122A?style=flat&logo=framer)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-05122A?style=flat&logo=ESLint)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest)&nbsp;
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-05122A?style=flat&logo=testinglibrary)&nbsp;
+![Next](https://img.shields.io/badge/Next-05122A?style=flat&logo=nextdotjs)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=PHP)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=GitHub)&nbsp;
+![Node](https://img.shields.io/badge/Node-05122A?style=flat&logo=nodedotjs)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-05122A?style=flat&logo=npm)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br>
+<br>
+
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=0xOmarAdel&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xOmarAdel&theme=tokyonight) |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
