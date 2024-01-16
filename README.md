@@ -6,7 +6,7 @@
 
 💡 &nbsp;Passionate about exploring new technologies and crafting compelling websites.
 
-🚀 &nbsp; Eager to embark on new challenges and contribute to exciting projects.
+🚀 &nbsp;Eager to embark on new challenges and contribute to exciting projects.
 
 ### 🛠 &nbsp;Tech Stack
 
