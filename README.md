@@ -22,6 +22,7 @@
 ![Daisy UI](https://img.shields.io/badge/Daisy_UI-05122A?logo=daisyui)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?logo=bootstrap)&nbsp;
 ![Mantine](https://img.shields.io/badge/Mantine-05122A?logo=Mantine)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-05122A?logo=MUI)&nbsp;
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-05122A?logo=chakraui)&nbsp;
 ![Framer](https://img.shields.io/badge/Framer_Motion-05122A?style=flat&logo=framer)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest)&nbsp;
