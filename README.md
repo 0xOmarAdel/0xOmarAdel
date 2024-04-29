@@ -40,6 +40,7 @@
 ![NPM](https://img.shields.io/badge/NPM-05122A?style=flat&logo=npm)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![ESLint](https://img.shields.io/badge/ESLint-05122A?style=flat&logo=ESLint)&nbsp;
+![Prettier](https://img.shields.io/badge/Prettier-05122A?style=flat&logo=Prettier)&nbsp;
 <br>
 <br>
 
