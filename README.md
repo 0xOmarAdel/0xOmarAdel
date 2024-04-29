@@ -22,7 +22,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?logo=bootstrap)&nbsp;
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-05122A?logo=chakraui)&nbsp;
 ![Framer](https://img.shields.io/badge/Framer_Motion-05122A?style=flat&logo=framer)&nbsp;
-![ESLint](https://img.shields.io/badge/ESLint-05122A?style=flat&logo=ESLint)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-05122A?style=flat&logo=testinglibrary)&nbsp;
 ![Next](https://img.shields.io/badge/Next-05122A?style=flat&logo=nextdotjs)&nbsp;
@@ -40,6 +39,7 @@
 ![Fastify](https://img.shields.io/badge/Fastify-05122A?style=flat&logo=Fastify)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-05122A?style=flat&logo=npm)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![ESLint](https://img.shields.io/badge/ESLint-05122A?style=flat&logo=ESLint)&nbsp;
 <br>
 <br>
 
