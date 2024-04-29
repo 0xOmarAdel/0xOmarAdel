@@ -34,6 +34,7 @@
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=GitHub)&nbsp;
 ![Node](https://img.shields.io/badge/Node-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=Express)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-05122A?style=flat&logo=npm)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
