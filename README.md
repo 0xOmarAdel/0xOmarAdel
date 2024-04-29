@@ -30,6 +30,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=Prisma)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=GitHub)&nbsp;
