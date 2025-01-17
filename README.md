@@ -1,4 +1,4 @@
-<h2>Omar  Adel </h2>
+<h2>Omar Adel</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
