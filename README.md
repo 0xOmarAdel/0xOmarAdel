@@ -1,5 +1,5 @@
-<h2>Omar  Adel </h2>
-<a href="https://www.linkedin.com/in/omaradelawad"><img src="https://img.shields.io/badge/Omar_Adel-0077B5?logo=Linkedin&logoColor=white"/></a>
+<h2>Omar Adel</h2>
+<a href="https://www.linkedin.com/in/omaradelawad"><img src="https://custom-icon-badges.demolab.com/badge/Omar_Adel-0A66C2?logo=linkedin-white&logoColor=white"/></a>
 <a href="mailto:omaradelawad@gmail.com"><img src="https://img.shields.io/badge/omaradelawad-D14836?logo=Gmail&logoColor=white"/>
 
 </a>
