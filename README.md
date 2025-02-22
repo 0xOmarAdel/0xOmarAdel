@@ -12,7 +12,7 @@
 
 🚀 &nbsp;Eager to embark on new challenges and contribute to exciting projects.
 
-📄 &nbsp;[Check out my resume for more details!](https://drive.google.com/file/d/13C9jpe2ShfEr5RHd0WPURLsbwZAsoIq1/view)
+📄 &nbsp;[Check out my resume for more details!](https://drive.google.com/file/d/1QWFVdLQ9oCjHv1dS-vahpqj4Uv33okIH/view)
 
 🔗 &nbsp;[Explore my portfolio here!](https://omar-adel.netlify.app)
 
