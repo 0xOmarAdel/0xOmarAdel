@@ -41,6 +41,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB)
 ![Mongoose](https://img.shields.io/badge/Mongoose-05122A?style=flat&logo=Mongoose)
 ![Redis](https://img.shields.io/badge/Redis-05122A?logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-05122A?logo=RabbitMQ)
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=Firebase)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=GitHub)
