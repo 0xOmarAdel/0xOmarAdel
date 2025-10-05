@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;A computer science student who graduated in 2023.
+🎓 &nbsp;Computer Science & Statistics graduate.
 
-💡 &nbsp;Passionate about exploring new technologies and crafting compelling websites.
+💡 &nbsp;Passionate about building scalable web apps and exploring modern technologies.
 
-🚀 &nbsp;Eager to embark on new challenges and contribute to exciting projects.
+🚀 &nbsp;Enjoys turning ideas into clean, functional, and user-friendly solutions.
 
 ### 🛠 &nbsp;Tech Stack
 
